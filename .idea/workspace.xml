@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ea3bc647-b670-49ec-b268-a6f7610fbf32" name="Default Changelist" comment="merge">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/springmvc/basic/HelloData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/springmvc/basic/request/RequestBodyJsonController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/springmvc/basic/request/RequestBodyStringController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/springmvc/basic/request/RequestHeaderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/hello/springmvc/basic/request/RequestParamController.java" afterDir="false" />
+    <list default="true" id="ea3bc647-b670-49ec-b268-a6f7610fbf32" name="Default Changelist" comment="03월 07일 HTTP 요청 파라미터 관련 실습 및 정리 내용 merge">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
