@@ -13,3 +13,4 @@
 + [HTTP 응답 - 메시지 바디에 직접 입력](https://unique-wandflower-4cc.notion.site/HTTP-4daf9f78dd5d40a9be2e697610aef51b)
 
 + [HTTP 메시지 컨버터](https://unique-wandflower-4cc.notion.site/HTTP-b8c12daf987a43ab858ca574eaa0d4ab)
++ [요청 매핑 핸들러 어댑터](https://unique-wandflower-4cc.notion.site/781ea2bcb7f948c5b011c0d1d6a787e0)
